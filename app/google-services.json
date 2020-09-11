@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523458104979",
+    "firebase_url": "https://trackit2-fec5d.firebaseio.com",
+    "project_id": "trackit2-fec5d",
+    "storage_bucket": "trackit2-fec5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523458104979:android:a54bdffeae0beae1270766",
+        "android_client_info": {
+          "package_name": "com.example.trackit2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523458104979-16v5pige5htrl7714edd7vb819teomgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuqBLVQ3bwagdRoSfvQUfeuzy4VGrZ-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523458104979-16v5pige5htrl7714edd7vb819teomgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
